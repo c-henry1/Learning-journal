@@ -2,5 +2,6 @@
 
 Status |Date |Activity|Notes
 -------|-----|--------|-----
-  x    |1 April|30Days JS|----
-       |     |         |   
+       |     |HTML/CSS FreeCodeCamp|
+       |1 April|30Days JS|----
+       |     |        |   
