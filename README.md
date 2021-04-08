@@ -3,9 +3,9 @@ https://www.freecodecamp.org/news/web-development-2020/
 
 Status |Date |Course/Activity|Notes
 -------|-----|---------------|-----
-    x  |May 21|HTML/CSS FreeCodeCamp|Picked up flexbox easily, grids need reviewing
-   x   |April 21|JS FreeCodeCamp|Wes Bos challenge to supplement and develop projects
--      |April 21|30Days JS Wes Bos| 
+    x  |May 21|HTML/CSS FCCamp|Picked up flexbox easily, grids need reviewing
+   x   |Apr 21|JS FreeCodeCamp|Wes Bos challenge to supplement and develop projects
+-      |Apr 21|30Days JS WesBos| 
       
 <h2>Javascript</h2>
 - [x]  Variables 
