@@ -8,8 +8,8 @@ Status |Date |Course/Activity|Notes
 -      |April 21|30Days JS Wes Bos| 
       
 <h2>Javascript</h2>
-- [    ]  Variables 
-- [    ]  Data types
+- [x]  Variables 
+- [x]  Data types
 - [    ]  If statements
 - [    ]  For loops
 - [    ]  While loops
